@@ -9,6 +9,7 @@
 ## Team Members
 - <a href="https://github.com/DreamerChaserHAH">DreamerChaserHAH - Victor Mak</a><br>
 - <a href="https://github.com/marcofernandioo">marcofernandioo - Marco Fernandio</a>
+- <a href="https://github.com/ryuux05">ryuux05 - Bryan Hirawan</a>
 
 ## Problem Statement
 
