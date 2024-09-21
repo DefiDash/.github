@@ -21,12 +21,12 @@ An AI-powered Web3 analytics tool that dynamically generates custom graphs and v
 
 ## General Flow
 
-1. User visits our Dapp Data Visualization Website
+1. User visits our Dapp Data Visualization Website.
 2. User enters the prompt telling us the data they are interested in.
-3. Phala Network AI Agent Contract receives the prompt and decides which API to call to get the necessary data
-4. The external APIs are provided by the Graph to effectively query the data provided by other existing Dapps
+3. Phala Network AI Agent Contract receives the prompt and decides which API to call to get the necessary data.
+4. The external APIs are provided by the Graph to effectively query the data provided by other existing Dapps.
 5. Using the data received from the Graph, the ai agent later decides what kind of data visualization is the most suitable for the project.
-6. Data Visualization is done on the frontend
+6. Data Visualization is done on the frontend.
 
 ## Repositories
 
